@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rvinzant/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/rvinzant/Documents/Unreal Projects/MyProject/Content/BP_TRIGGERZONE.uasset",
+				"C:/Users/rvinzant/Documents/Unreal Projects/MyProject/Content/BP_Cube.uasset",
+				"C:/Users/rvinzant/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset",
+				"C:/Users/rvinzant/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset",
+				"C:/Users/rvinzant/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MY/8V2XAEISQZKPQNN9GXTIZ9.uasset",
+				"C:/Users/rvinzant/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MF/NBGI8KSB5MUXDLPH1WDP8D.uasset",
+				"C:/Users/rvinzant/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/OY/EF9P1MCJZEJ8ZL2YWKIGWL.uasset",
+				"C:/Users/rvinzant/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/KB/YAP8LUY9AT6YKIL41UJ823.uasset",
+				"C:/Users/rvinzant/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/rvinzant/Documents/Unreal Projects/MyProject/Content/BP_Spawner.uasset",
+				"C:/Users/rvinzant/Documents/Unreal Projects/MyProject/Content/BP_Platform.uasset"
+			]
+		}
+	]
+}
